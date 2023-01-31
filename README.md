@@ -22,7 +22,7 @@
 3. **Geometric transformations**
 
    - [2-D transformations](https://github.com/eraldoribeiro/2d_transformations)
-   - 3-D transformations 
+   - [3-D transformations] (https://github.com/eraldoribeiro/3D_transformations) 
    - Change of coordinates transformations 
    - Projective transformations (shapes and images)
 
