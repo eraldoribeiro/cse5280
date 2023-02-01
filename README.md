@@ -24,7 +24,7 @@
    - [2-D transformations](https://github.com/eraldoribeiro/2d_transformations)
    - [3-D transformations](https://github.com/eraldoribeiro/3D_transformations)
    - [Affine transformations](https://github.com/eraldoribeiro/affineTransformations) 
-   - Change of coordinates transformations 
+   - Change-of-coordinates transformation 
    - Projective transformations (shapes and images)
 
 4. **Collision-free goal-oriented animation (multiple particles)**
