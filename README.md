@@ -24,7 +24,7 @@ Figure from: https://commons.wikimedia.org/wiki/File:Activemarker2.PNG
    - [2-D transformations](2D_transformations.md)
    - [3-D transformations](https://github.com/eraldoribeiro/3D_transformations)
    - [Affine transformations](https://github.com/eraldoribeiro/affineTransformations) 
-   - Change-of-coordinates transformation 
+   - [Change-of-coordinates transformation](changingCoordinateFrames.md) 
    - Projective transformations (shapes and images)
 
 4. **Collision-free goal-oriented animation (multiple particles)**
