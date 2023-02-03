@@ -2,4 +2,3 @@
 
 - [Notes](https://htmlpreview.github.io/?https://github.com/eraldoribeiro/changeOfCoordinates/blob/main/Change_in_coordinate_frames_Example.html)
 
-- [Notes (pdf)](https://github.com/eraldoribeiro/2d_transformations/blob/main/transformations2d.pdf)
