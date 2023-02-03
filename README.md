@@ -1,4 +1,5 @@
-![](https://upload.wikimedia.org/wikipedia/commons/6/6d/Activemarker2.PNG)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Activemarker2.PNG" alt="object" style="zoom:40%;" />
+
 Figure from: https://commons.wikimedia.org/wiki/File:Activemarker2.PNG
 
 
