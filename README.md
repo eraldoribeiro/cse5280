@@ -26,8 +26,7 @@ Figure from: https://commons.wikimedia.org/wiki/File:Activemarker2.PNG
 
 3. **Geometric transformations**
 
-   - [2-D transformations (test list of items)](2D_transformations.md)
-   - [2-D transformations](https://github.com/eraldoribeiro/2d_transformations)
+   - [2-D transformations](2D_transformations.md)
    - [3-D transformations](https://github.com/eraldoribeiro/3D_transformations)
    - [Affine transformations](https://github.com/eraldoribeiro/affineTransformations) 
    - Change-of-coordinates transformation 
