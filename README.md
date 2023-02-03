@@ -1,3 +1,7 @@
+![](https://upload.wikimedia.org/wikipedia/commons/6/6d/Activemarker2.PNG)
+Figure from: https://commons.wikimedia.org/wiki/File:Activemarker2.PNG
+
+
 # cse5280
 
 #### Main topics
