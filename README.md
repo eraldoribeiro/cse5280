@@ -24,6 +24,7 @@ Figure from: https://commons.wikimedia.org/wiki/File:Activemarker2.PNG
    - [2-D transformations](2D_transformations.md)
    - [3-D transformations](https://github.com/eraldoribeiro/3D_transformations)
    - [Affine transformations](https://github.com/eraldoribeiro/affineTransformations) 
+   - [Homogeneous coordinates](homogeneousCoords.md)
    - [Change-of-coordinates transformation](changingCoordinateFrames.md) 
    - [Projective transformations (shapes and images)](https://github.com/eraldoribeiro/cse5280/blob/main/projectiveTransformations.md)
 
