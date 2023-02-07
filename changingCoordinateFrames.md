@@ -3,6 +3,7 @@
 # Changing coordinate systems 
 
 - [Notes](https://htmlpreview.github.io/?https://github.com/eraldoribeiro/changeOfCoordinates/blob/main/ChangingCoords.html)
+- [Nice blog on transformation (robotics)](https://articulatedrobotics.xyz/transformations-1-coordinate_transforms/)
 
 - Example: Transforming between global and local frames
   - [Step-by-step numerical example](https://htmlpreview.github.io/?https://github.com/eraldoribeiro/changeOfCoordinates/blob/main/Change_in_coordinate_frames_Example.html)
