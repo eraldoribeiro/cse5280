@@ -1,5 +1,5 @@
 
-|   a   |    b  |
+|   ![](https://upload.wikimedia.org/wikipedia/commons/a/a0/ATHLETE_robot_climbing_a_hill.jpg)   |    b  |
 | ---- | ---- |
 
 
