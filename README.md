@@ -36,7 +36,7 @@ Figure from: https://commons.wikimedia.org/wiki/File:Activemarker2.PNG
    - Attraction-repulsion forces  
 
 5. **Robot-arm path planning**
-   - Change of coordinate frames
+   - [Kinematic chains](kinematic_chains.md)
    - Forward kinematics 
    - Jacobian-based gradient descent 
    - Inverse kinematics 
