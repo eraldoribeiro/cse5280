@@ -3,5 +3,5 @@
 # Kinematic chains
 
 - [Notes](https://github.com/eraldoribeiro/kinematic_chain/blob/main/kinematicChains.md)
-
+- [Online tutorial on forward kinematics by Sai Krishna](https://www.rosroboticslearning.com/forward-kinematics)
 
