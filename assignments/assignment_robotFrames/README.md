@@ -1,2 +1,2 @@
-# Reference-frames-and-3-D-pose
-Notes on reference frames in 3 dimensions and object pose
+# Assignment on kinematic chains 
+2-D kinematic chain representing a robot arm 
