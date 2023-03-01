@@ -38,7 +38,7 @@ Figure from: https://commons.wikimedia.org/wiki/File:Activemarker2.PNG
 5. **Robot-arm path planning**
    - [Kinematic chains](kinematic_chains.md)
    - [Forward kinematics](forwardKinematics.md)
-   - Jacobian-based gradient descent 
+   - [Jacobian-based gradient descent](gradient_descent.md)
    - Inverse kinematics 
 
 6. **Shape and image morphing** 
