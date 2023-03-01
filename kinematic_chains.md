@@ -4,4 +4,5 @@
 
 - [Notes](https://htmlpreview.github.io/?https://github.com/eraldoribeiro/kinematic_chain/blob/main/kinematicChains.html)
 - [Online tutorial on forward kinematics by Sai Krishna](https://www.rosroboticslearning.com/forward-kinematics)
+- [Practice assignment](https://github.com/eraldoribeiro/assignment_robotarm2D)  
 
