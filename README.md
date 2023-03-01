@@ -30,7 +30,7 @@ Figure from: https://commons.wikimedia.org/wiki/File:Activemarker2.PNG
 
 4. **Collision-free goal-oriented animation (multiple particles)**
 
-   - Cost-function minimization using gradient descent
+   - [Cost-function minimization using gradient descent](gradient_descent.md)
    - Path planning 
    - Obstacle avoidance 
    - Attraction-repulsion forces  
