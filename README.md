@@ -28,7 +28,7 @@ Figure from: https://commons.wikimedia.org/wiki/File:Activemarker2.PNG
    - [Change-of-coordinates transformation](changingCoordinateFrames.md) 
    - [Projective transformations (shapes and images)](https://github.com/eraldoribeiro/cse5280/blob/main/projectiveTransformations.md)
 
-4. **Collision-free goal-oriented animation (multiple particles)**
+4. **Collision-free goal-oriented animation**
 
    - [Cost-function minimization using gradient descent](gradient_descent.md)
    - Path planning 
@@ -38,7 +38,7 @@ Figure from: https://commons.wikimedia.org/wiki/File:Activemarker2.PNG
 5. **Robot-arm path planning**
    - [Kinematic chains](kinematic_chains.md)
    - [Forward kinematics](forwardKinematics.md)
-   - [Jacobian-based gradient descent](gradient_descent.md)
+   - Jacobian-based gradient descent
    - Inverse kinematics 
 
 6. **Shape and image morphing** 
