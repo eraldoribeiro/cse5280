@@ -38,8 +38,7 @@ Figure from: https://commons.wikimedia.org/wiki/File:Activemarker2.PNG
 5. **Robot-arm path planning**
    - [Kinematic chains](kinematic_chains.md)
    - [Forward kinematics](forwardKinematics.md)
-   - Jacobian-based gradient descent
-   - Inverse kinematics 
+   - [Inverse Kinematics (Jacobian-based gradient descent)](inverse_kinematics_iterative.md)
 
 6. **Shape and image morphing** 
    - Barycentric coordinates 
