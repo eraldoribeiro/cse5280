@@ -9,5 +9,5 @@
 - Slides ([pdf](mathsForAnimation_smallsize.pdf))
 
 - The Gradient-Descent Algorihtm
-  - Notes and derivation ([hmtl](https://htmlpreview.github.io/?https://github.com/eraldoribeiro/gradientDescent/blob/main/gradientDescent.html))
+  - Notes and derivation ([html](https://htmlpreview.github.io/?https://github.com/eraldoribeiro/gradientDescent/blob/main/gradientDescent.html))
   - Sample code (scalar function of a single scalar variable): [Jupyter notebook](https://github.com/eraldoribeiro/gradientDescent/blob/main/gradientDescent1D.ipynb)
